@@ -1,3 +1,20 @@
+# Proposal 
+
+For my visual argument, I will be advertising a course that I took called "Atoms, Molcules, and Materials." This was one of my favorite courses I've taken at Pitt that I don't think many people know about. I think the name definitely lends itself to a cool ad/flyer. I want to use the text of the name of the course to show all the various things you will learn about in the course. For the word "atom," I'm planning to use a model of an atom as the letter O. For the word "molecule," I'm planning to write some letters so they look like the ball and stick model of molecules, and maybe do some long carbon chains for other letters. The word materials is that part I haven't really decided on yet. I know I definitely want to turn the letter A into a ladder, with a person building something on it. For the rest of the letters, I'm just planning on having other cool materials shown in them or with them. I think the ladder and person will show that this class is relatable and the things you learn about can be applied to daily life. 
+
+Assets list:
+
+| Needs | Solution | 
+| --- | --- |
+| Atom diagram | CC | 
+| Ladder | CC |
+| Stick figures | Draw or CC | 
+| Stick/ball model to make molecules | CC or draw myself via Scigress |
+| Text | CC | 
+| Diagrams from textbooks/papers | Fair use | 
+
+
+
 # Project 2: Visual Argument / Rhetorical Collage
 
 Your task in this unit is to **make a rhetorical claim through the juxtaposition of images and text.** It's kind of a collage, but a collage with an argument to make. In assigning this, I have two main goals for you: (1) to learn how to ethically obtain images and edit them using digital tools, and (2) to explore the affordances of still images as a medium, and especially their ability to _direct attention_ and _help make ideas memorable_.
