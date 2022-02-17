@@ -7,5 +7,7 @@
 | Flask icon | CC | “Flask Icon” by Atif Arshad from Noun Project | https://thenounproject.com/icon/flask-1167723/ 
 | Test tube icon | CC | “Flask Icon” by Muhammad Taufik Sidik from Noun Project | https://thenounproject.com/icon/flask-4354377/  |
 | Crane | CC | “Crane” by SAM Designs from Noun Project | https://thenounproject.com/icon/crane-4596022/ |
-| Stick/ball model to make molecules | CC or draw myself via Scigress |
+| Materials/electronics photo | CC | Photo by Mikita Yo on Unsplash | https://unsplash.com/photos/VAhJP5c-XdI | 
+| Lab photo | group members in the lab | take my own images | | 
+| Textbook photos | books from the library | take my own images | | 
 
