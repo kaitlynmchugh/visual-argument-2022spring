@@ -1,3 +1,10 @@
+# Atoms, Molecules, and Materials 
+An Introduction to the Synthesis and Applications of Nanomaterials 
+
+This visual argument aims to advertise a very underrated chemistry class at Pitt, called "Atoms, Molecules, and Materials." In this class, students learn important theories and lab techniques related to nanomaterials. Students will also discover that nanomaterials are a much bigger part of our everyday life than you can imagine! Scan the QR to get more information on enrollment today.   
+
+#
+
 # Assets List - Full Citations 
 
 | Needs | Solution | Source | Link |
