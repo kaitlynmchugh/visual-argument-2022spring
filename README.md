@@ -1,3 +1,10 @@
+# Atoms, Molecules, and Materials 
+An Introduction to the Synthesis and Applications of Nanomaterials 
+
+This visual argument aims to advertise a very underrated chemistry class at Pitt, called "Atoms, Molecules, and Materials." In this class, students learn important theories and lab techniques related to nanomaterials. Students will also discover that nanomaterials are a much bigger part of our everyday life than you can imagine! Scan the QR to get more information on enrollment today.   
+
+#
+
 # Assets List - Full Citations 
 
 | Needs | Solution | Source | Link |
@@ -7,9 +14,13 @@
 | Flask icon | CC | “Flask Icon” by Atif Arshad from Noun Project, licensed under CCPL  | https://thenounproject.com/icon/flask-1167723/ 
 | Test tube icon | CC | “Flask Icon” by Muhammad Taufik Sidik from Noun Project, licensed under CCPL  | https://thenounproject.com/icon/flask-4354377/  |
 | Crane | CC | “Crane” by SAM Designs from Noun Project, licensed under CCPL  | https://thenounproject.com/icon/crane-4596022/ |
-| Materials/electronics photo | CC | Photo by Mikita Yo on Unsplash | https://unsplash.com/photos/VAhJP5c-XdI | 
-| Lab photo | group members in the lab | take my own images | | 
-| Textbook photos | books from the library | take my own images | | 
+| Materials/electronics photo | Free to use image | Photo by Mikita Yo on Unsplash, licensed under Unplash License | https://unsplash.com/photos/VAhJP5c-XdI | 
+| Lab photo | group members in the lab | take my own images | Riti Sen gives her permission to be photographed for this visual argument. | 
+| Textbook photos | textbooks in the library | take my own images | Corti, Christopher and Holliday, Richard. "Gold: Science and Applications." CRC Press, 2009. Timp, Gregory. "Nanotechnology." Springer, 1997.| 
+| Red background | CC | "Red Color" on Wikimedia Commons, licensed under Public Domain Certification| https://commons.wikimedia.org/wiki/File:Red_Color.jpg  |
+| Yellow background | CC | "Yellow square" on Free SVG, licensed under Public Domain Certification | https://freesvg.org/lightyellow |
+| Green background | CC | "Green color square shape" on Free SVG, licensed under Public Domain Certification | https://freesvg.org/green-color-square-shape |
+| Blue background | CC | "Navy blue color square shape" on Free SVG, licensed under Public Domain Certification | https://freesvg.org/navy-blue-color-square-shape |
 
 
 # 
