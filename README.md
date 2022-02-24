@@ -5,6 +5,26 @@ This visual argument aims to advertise a very underrated chemistry class at Pitt
 
 #
 
+# Reflection 
+
+When deciding what to create for my visual argument, I was pretty overwhelmed with my options and felt that I had a lot of different concepts that I could’ve base dmy argument on, but no concrete ideas. Because of this, I decided to keep it simple and use the parachute prompt, which was to create an advertisement for a class. I had the perfect class for this, called “Atoms, Molecules, and Materials.” I thought that the name itself invoked various visuals, even when thinking about it (more than a class like “Organic Chemistry 2”). I knew I would definitely enjoy finding visuals and taking my own pictures for this project, as well as having a lot of material to work with, so I decided to go with this theme. 
+
+I think I definitely met the minimum criteria for this assignment, along with some of the aspirational criteria. My argument tells the viewer to take this super fun chemistry class at Pitt, by showing them what they could be doing in the lab, learning about in books, and how this all relates to everyday things, like powering the electricity in your home. I intended the focus of the flyer to be the text, which is the title of the course, and the background to reveal itself as the things you may do/learn about in the class. I am guiding the viewer to see what the course is, before diving into what it is about, and finally showing them how to get more information and enroll using the QR code. I think the fonts definitely match the tone, as they are sleek, bold, and scientific. Credit is given on the ad through a link to the README file, which contains a full assets list. In this file, I have included citations for all the resources used, links, and licenses. I have used more than 3 layers, as well as more than one tool beyond select, move, and text. I altered the opacity on multiple images to create a color block effect, and I also used drop shadow to make the text stand out more. 
+
+I knew I wanted to include some pops of color on the flyer, but I also figured having these contrasting colors so close together could be distracting. In my first draft, I simply lowered the opacity of the class images (the textbooks, the lab, and materials) but left the color blocks at their full brightness, as shown below: 
+![first draft screenshot](https://user-images.githubusercontent.com/75503004/155591422-c5dab381-036f-494a-81df-f7b4e9fbd3b3.PNG)
+
+
+After receiving the feedback shown below, I decided that lowering the opacity on the color blocks themselves could make it easier on the eyes.
+![feedback 1](https://user-images.githubusercontent.com/75503004/155587734-53462d42-8436-441f-8d00-b2a6335c6342.PNG)
+
+I included a white background behind the color blocks, so the white would show through when the color block opacity was lowered. As shown below, this helped to reduce the contrast between each color block, making it easier to read the text overall. 
+![peer review screenshot edit](https://user-images.githubusercontent.com/75503004/155587775-33ce11f0-1a5b-4b85-a4a9-5d3abb31f984.PNG)
+
+![peer review screenshot edit 2](https://user-images.githubusercontent.com/75503004/155587794-ccc24b0c-c90c-4a8c-bfb1-1b749e4a43c5.PNG)
+
+#
+ 
 # Assets List - Full Citations 
 
 | Needs | Solution | Source | Link |
